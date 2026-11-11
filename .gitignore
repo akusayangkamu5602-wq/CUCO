@@ -1,0 +1,12 @@
+wallet/data/private.pem
+wallet/data/
+node/data/peers.json
+__pycache__/
+*.pyc
+.env
+blockchain/data/
+node/data/peers.json
+node/data/*.tmp
+*.backup.py
+*.before-state.py
+node/*.backup*.py

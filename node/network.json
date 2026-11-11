@@ -1,0 +1,10 @@
+{
+  "network_name": "CUCO Mainnet",
+  "network_id": "CUCO-MAIN-0001",
+  "symbol": "CUCO",
+  "protocol_version": 1,
+  "port": 5000,
+  "consensus": "SHA256-PoW",
+  "block_time_seconds": 600,
+  "max_supply": 21000000
+}
